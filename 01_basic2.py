@@ -49,6 +49,8 @@ print(list2)
 print("pop",list2.pop(1))
 print(list2)
 
+count=['aa','aa','bb','aa'].count('aa')
+print("count",count)
 
 #문자열 관련함수
 a= "hobby"
